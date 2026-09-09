@@ -1,4 +1,4 @@
-# 📚 MetasSemestre
+#  MetasSemestre
 
 Aplicativo desenvolvido em React Native com Expo para cadastro e gerenciamento de metas acadêmicas do semestre.
 
